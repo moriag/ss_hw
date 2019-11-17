@@ -13,3 +13,5 @@ double Pow(double x ,int y){
 double Exp(int x){
     return Pow(e, x);
 }
+
+

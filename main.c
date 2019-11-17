@@ -16,3 +16,5 @@ int main(){
     answer= sub( (div( (mul( Pow(userNumber,3) , 4)) ,5)) , (mul(userNumber,2) ));
     printf("the value of f(x) = (4x^3)/5-2x at the point x = %.4lf, is: %.4lf\n",userNumber,answer);
 }
+
+
